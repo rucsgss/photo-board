@@ -1,0 +1,7 @@
+*.aux
+*.log
+*-eps-converted-to.pdf
+__pycache__
+a0header.ps
+photoboard.pdf
+photoboard.tex

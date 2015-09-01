@@ -8,7 +8,7 @@ Create list(s) of people in separate text files for each section in
 the photo board (e.g., PhD students, MS students, etc.). The file
 should contain one person per line, in the following format:
 
-    unique-id[display-name]
+    display-name[unique-id]
 
 If the `display-name` is omitted, the `unique-id` will be used
 instead.
